@@ -2,7 +2,14 @@
 
 Este repositório contém o código-fonte e a estrutura modular do sistema **MES (Manufacturing Execution System)** desenvolvido pela **DAM Systems Automação Industrial**. O projeto é composto por múltiplos módulos e serviços integrados que atendem às necessidades de controle, rastreabilidade e eficiência industrial.
 
+# Frontend MES - DAM Systems
 
+Stack:
+- Vue 3 + Vite
+- TailwindCSS
+- Pinia + Axios
+- Chart.js + Plotly
+- VuePDF
 
 ## Dependências principais
 - Laravel 10
