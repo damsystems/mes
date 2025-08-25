@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DAM Systems – Projeto MES
 Este repositório contém o código-fonte e a estrutura modular do sistema MES (Manufacturing Execution System) desenvolvido pela DAM Systems Automação Industrial. O projeto é composto por múltiplos módulos e serviços integrados que atendem às necessidades de controle, rastreabilidade e eficiência industrial.
 
@@ -9,6 +10,24 @@ NPM: v9.8.1
 Composer: 2.8.11
 PHP: 8.1.33
 Estrutura do Projeto
+=======
+# DAM Systems – Projeto MES
+
+Este repositório contém o código-fonte e a estrutura modular do sistema **MES (Manufacturing Execution System)** desenvolvido pela **DAM Systems Automação Industrial**. O projeto é composto por múltiplos módulos e serviços integrados que atendem às necessidades de controle, rastreabilidade e eficiência industrial.
+
+---
+## Ambiente de Desenvolvimento
+"Ubuntu 22.04.5 LTS"
+
+- Node.js: v18.18.2  
+- NPM: v9.8.1
+- Composer: 2.8.11
+- PHP: 8.1.33
+
+## Estrutura do Projeto
+
+```bash
+>>>>>>> da835ad (Restaurando conteúdo do README.md do commit dd377c08)
 mes/
 ├── apps/                 # Aplicações front-end
 │   └── web/              # Interface web (Vue.js, Tailwind, Inertia)
