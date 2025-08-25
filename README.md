@@ -6,8 +6,8 @@ Este repositório contém o código-fonte e a estrutura modular do sistema **MES
 ## Ambiente de Desenvolvimento
 "Ubuntu 22.04.5 LTS"
 
-- Node.js: v18.x.x  
-- NPM: v10.x.x
+- Node.js: v18.18.2  
+- NPM: v9.8.1
 - Composer: 2.8.11
 - PHP: 8.1.33
 
