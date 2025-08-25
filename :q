@@ -1,0 +1,35 @@
+[33mcommit ef91f792f9d26b2d4a1e271d8a6d862796c34260[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dam <damautomacaoindustrial@gmail>
+Date:   Mon Aug 25 21:01:06 2025 +0000
+
+    Commit inicial - Estrutura do projeto
+
+[33mcommit dd377c08e1f59eda5fb128a4a77ae8c46d97dbab[m
+Author: DAM Systems Automação Industrial <desenvolvimento02@damsystems.com.br>
+Date:   Mon Aug 25 17:09:07 2025 -0300
+
+    Update README.md
+    
+    Atualização da versões
+
+[33mcommit 392e67f13322610353fbcbdcc2e6a72e1c4e27da[m
+Author: DAM Systems Automação Industrial <desenvolvimento02@damsystems.com.br>
+Date:   Mon Aug 25 17:07:56 2025 -0300
+
+    Update README.md
+    
+    Especificação do ambiente de trabalho
+
+[33mcommit 2bd19b45d87f4e1ed5d4894f08dc6097a909518a[m
+Author: DAM Systems Automação Industrial <desenvolvimento02@damsystems.com.br>
+Date:   Sat Aug 23 12:11:02 2025 -0300
+
+    Update README.md
+    
+    Atualização da estrutura de como ficará disposto o MES
+
+[33mcommit 6b856f0638a45e33a5d6262d94da4dd911a9ee5d[m
+Author: DAM Systems Automação Industrial <desenvolvimento02@damsystems.com.br>
+Date:   Sat Aug 23 12:08:22 2025 -0300
+
+    Initial commit

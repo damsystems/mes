@@ -2,6 +2,14 @@
 
 Este repositório contém o código-fonte e a estrutura modular do sistema **MES (Manufacturing Execution System)** desenvolvido pela **DAM Systems Automação Industrial**. O projeto é composto por múltiplos módulos e serviços integrados que atendem às necessidades de controle, rastreabilidade e eficiência industrial.
 
+
+
+## Dependências principais
+- Laravel 10
+- Breeze + Inertia.js + Vue
+- DomPDF
+- PhpSpreadsheet
+- Bacon QRCode
 ---
 ## Ambiente de Desenvolvimento
 "Ubuntu 22.04.5 LTS"
